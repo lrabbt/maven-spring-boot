@@ -2,4 +2,4 @@
 
 mvn clean
 
-mvn spring-boot:run
+mvn spring-boot:run -Drun.profiles=dev
